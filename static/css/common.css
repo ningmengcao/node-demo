@@ -1,0 +1,18 @@
+/*-----------flex布局------------*/
+.dis-flex{
+  display: flex;
+}
+.flex-1{
+  flex: 1;
+}
+/*------------方向-----------------*/
+.float-left{
+  float: left;
+}
+.float-right{
+  float: right;
+}
+/*-------------颜色--------------*/
+.bg-ffffff{
+  background-color: #ffffff;
+}
